@@ -3,6 +3,7 @@ Already learnt craftables
 # 1-star
 * Aristocrat's
 * Assassin's
+* Berserker's
 * Bloodied
 * Furious
 * Ghoul Slayer's
