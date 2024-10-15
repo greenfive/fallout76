@@ -16,6 +16,7 @@ Already learnt craftables
 * Overeater's
 * Stalker's
 * Suppressor's
+* Unyielding
 * Vampire's
 
 # 2-star
