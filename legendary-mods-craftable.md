@@ -23,6 +23,7 @@ Already learnt craftables
 * Antiseptic
 * Charisma
 * Crippling
+* Explosive
 * Intertial
 * Last Shot
 * Powered
