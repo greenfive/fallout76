@@ -18,6 +18,7 @@ Already learnt craftables
 * Suppressor's
 * Unyielding
 * Vampire's
+* Weightless
 
 # 2-star
 * Antiseptic
