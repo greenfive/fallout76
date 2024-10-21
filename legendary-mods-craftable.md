@@ -10,6 +10,7 @@ Already learnt craftables
 * Ghoul Slayer's
 * Hunter's
 * Juggernaut's
+* Junkie's
 * Mutant Slayer's
 * Mutant's
 * Nocturnal
