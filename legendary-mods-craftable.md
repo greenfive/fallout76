@@ -37,6 +37,7 @@ Already learnt craftables
 
 # 3-star
 * Agility
+* Cavalier's
 * Durability
 * Endurance
 * Lucky
