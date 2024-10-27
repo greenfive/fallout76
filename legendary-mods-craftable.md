@@ -6,6 +6,7 @@ Already learnt craftables
 * Berserker's
 * Bloodied
 * Cloaking
+* Executioner's
 * Furious
 * Ghoul Slayer's
 * Hunter's
