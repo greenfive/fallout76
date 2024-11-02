@@ -37,11 +37,14 @@ Already learnt craftables
 * Vital
 
 # 3-star
+* Acrobat's
 * Agility
 * Cavalier's
 * Durability
 * Endurance
+* Ghost's
 * Lucky
+* Nimble
 * Steadfast
 * Strength
 * Swift
