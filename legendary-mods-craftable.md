@@ -22,6 +22,7 @@ Already learnt craftables
 * Unyielding
 * Vampire's
 * Weightless
+* Zealot's
 
 # 2-star
 * Antiseptic
@@ -40,6 +41,7 @@ Already learnt craftables
 * Acrobat's
 * Agility
 * Cavalier's
+* Diver's
 * Durability
 * Endurance
 * Ghost's
