@@ -29,6 +29,7 @@ Already learnt craftables
 * Charisma
 * Crippling
 * Explosive
+* Hazmat
 * Intelligence
 * Intertial
 * Last Shot
