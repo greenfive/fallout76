@@ -29,6 +29,7 @@ Already learnt craftables
 * Charisma
 * Crippling
 * Explosive
+* Hardy
 * Hazmat
 * Intelligence
 * Intertial
@@ -37,6 +38,7 @@ Already learnt craftables
 * Rapid
 * V.A.T.S. Enhanced
 * Vital
+* Warming
 
 # 3-star
 * Acrobat's
