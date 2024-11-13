@@ -31,6 +31,7 @@ Already learnt craftables
 * Explosive
 * Hardy
 * Hazmat
+* Heavy Hitter's
 * Intelligence
 * Intertial
 * Last Shot
