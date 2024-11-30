@@ -25,6 +25,7 @@ Already learnt craftables
 * Zealot's
 
 # 2-star
+* Agility
 * Antiseptic
 * Charisma
 * Crippling
