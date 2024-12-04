@@ -36,6 +36,7 @@ Already learnt craftables
 * Intelligence
 * Intertial
 * Last Shot
+* Perception
 * Powered
 * Rapid
 * V.A.T.S. Enhanced
