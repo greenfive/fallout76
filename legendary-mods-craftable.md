@@ -10,6 +10,7 @@ Already learnt craftables
 * Furious
 * Ghoul Slayer's
 * Hunter's
+* Instigating
 * Juggernaut's
 * Junkie's
 * Mutant Slayer's
