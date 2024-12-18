@@ -10,6 +10,7 @@ Already learnt craftables
 * Executioner's
 * Furious
 * Ghoul Slayer's
+* Gourmand's
 * Hunter's
 * Instigating
 * Juggernaut's
