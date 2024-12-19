@@ -51,6 +51,7 @@ Already learnt craftables
 * Acrobat's
 * Agility
 * Cavalier's
+* Dissipating
 * Diver's
 * Durability
 * Endurance
