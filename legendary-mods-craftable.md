@@ -25,6 +25,7 @@ Already learnt craftables
 * Two-Shot
 * Unyielding
 * Vampire's
+* Vanguard's
 * Weightless
 * Zealot's
 
