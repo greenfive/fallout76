@@ -1,6 +1,7 @@
 Already learnt craftables
 
 # 1-star
+* Anti-Armor
 * Aristocrat's
 * Assassin's
 * Auto-Stim
@@ -8,6 +9,7 @@ Already learnt craftables
 * Bloodied
 * Cloaking
 * Executioner's
+* Exterminator's
 * Furious
 * Ghoul Slayer's
 * Gourmand's
