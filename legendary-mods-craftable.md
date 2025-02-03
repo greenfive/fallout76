@@ -58,6 +58,7 @@ Already learnt craftables
 * Cavalier's
 * Dissipating
 * Diver's
+* Doctor's
 * Durability
 * Endurance
 * Ghost's
