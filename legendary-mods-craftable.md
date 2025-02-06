@@ -17,6 +17,7 @@ Already learnt craftables
 * Instigating
 * Juggernaut's
 * Junkie's
+* Life Saving
 * Mutant Slayer's
 * Mutant's
 * Nocturnal
@@ -61,6 +62,7 @@ Already learnt craftables
 * Doctor's
 * Durability
 * Endurance
+* Frozen
 * Ghost's
 * Lucky
 * Nimble
@@ -68,3 +70,4 @@ Already learnt craftables
 * Strength
 * Swift
 * Thru-Hiker's
+* V.A.T.S. Optimized
