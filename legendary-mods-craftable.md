@@ -38,6 +38,7 @@ Already learnt craftables
 * Charisma
 * Crippling
 * Explosive
+* Fireproof
 * Glutton
 * Hardy
 * Hazmat
