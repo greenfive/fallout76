@@ -22,6 +22,7 @@ Already learnt craftables
 * Mutant's
 * Nocturnal
 * Overeater's
+* Regenerating
 * Stalker's
 * Suppressor's
 * Troubleshooter's
