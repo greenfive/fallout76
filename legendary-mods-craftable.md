@@ -47,7 +47,9 @@ Already learnt craftables
 * Intelligence
 * Intertial
 * Last Shot
+* Luck
 * Perception
+* Poisoner's
 * Powered
 * Rapid
 * Riposting
@@ -69,6 +71,7 @@ Already learnt craftables
 * Ghost's
 * Lucky
 * Nimble
+* Resilient
 * Steadfast
 * Strength
 * Swift
