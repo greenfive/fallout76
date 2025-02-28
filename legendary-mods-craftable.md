@@ -38,6 +38,7 @@ Already learnt craftables
 * Antiseptic
 * Charisma
 * Crippling
+* Endurance
 * Explosive
 * Fireproof
 * Glutton
