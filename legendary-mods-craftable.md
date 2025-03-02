@@ -70,6 +70,7 @@ Already learnt craftables
 * Endurance
 * Frozen
 * Ghost's
+* Luck
 * Lucky
 * Nimble
 * Resilient
