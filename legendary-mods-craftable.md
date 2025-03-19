@@ -7,6 +7,7 @@ Already learnt craftables
 * Auto-Stim
 * Berserker's
 * Bloodied
+* Chameleon
 * Cloaking
 * Executioner's
 * Exterminator's
