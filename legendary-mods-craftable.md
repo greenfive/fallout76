@@ -46,6 +46,7 @@ Already learnt craftables
 * Hardy
 * Hazmat
 * Heavy Hitter's
+* Hitman's
 * Intelligence
 * Intertial
 * Last Shot
@@ -64,6 +65,7 @@ Already learnt craftables
 * Acrobat's
 * Agility
 * Cavalier's
+* Defender's
 * Dissipating
 * Diver's
 * Doctor's
