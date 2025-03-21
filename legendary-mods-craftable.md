@@ -5,6 +5,7 @@ Already learnt craftables
 * Aristocrat's
 * Assassin's
 * Auto-Stim
+* Basher's
 * Berserker's
 * Bloodied
 * Chameleon
