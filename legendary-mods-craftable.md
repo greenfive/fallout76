@@ -83,3 +83,6 @@ Already learnt craftables
 * Swift
 * Thru-Hiker's
 * V.A.T.S. Optimized
+
+# 4-star
+* Pyromaniac's
