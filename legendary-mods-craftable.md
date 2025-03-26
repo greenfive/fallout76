@@ -21,6 +21,7 @@ Already learnt craftables
 * Juggernaut's
 * Junkie's
 * Life Saving
+* Medic's
 * Mutant Slayer's
 * Mutant's
 * Nocturnal
