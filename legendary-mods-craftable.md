@@ -8,6 +8,7 @@ Already learnt craftables
 * Basher's
 * Berserker's
 * Bloodied
+* Bolstering
 * Chameleon
 * Cloaking
 * Executioner's
