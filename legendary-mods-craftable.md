@@ -80,6 +80,7 @@ Already learnt craftables
 * Lucky
 * Nimble
 * Resilient
+* Secret Agent's
 * Steadfast
 * Strength
 * Swift
