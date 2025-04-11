@@ -85,6 +85,7 @@ Already learnt craftables
 * Strength
 * Swift
 * Thru-Hiker's
+* Toxic
 * V.A.T.S. Optimized
 
 # 4-star
