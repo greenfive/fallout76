@@ -68,6 +68,7 @@ Already learnt craftables
 * Acrobat's
 * Agility
 * Cavalier's
+* Charisma
 * Defender's
 * Dissipating
 * Diver's
