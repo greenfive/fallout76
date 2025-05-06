@@ -77,6 +77,7 @@ Already learnt craftables
 * Endurance
 * Frozen
 * Ghost's
+* Lightweight
 * Luck
 * Lucky
 * Nimble
