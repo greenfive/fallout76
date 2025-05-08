@@ -81,6 +81,7 @@ Already learnt craftables
 * Luck
 * Lucky
 * Nimble
+* Pack Rat's
 * Resilient
 * Secret Agent's
 * Steadfast
