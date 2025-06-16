@@ -67,6 +67,7 @@ Already learnt craftables
 # 3-star
 * Acrobat's
 * Agility
+* Arm's Keeper
 * Cavalier's
 * Charisma
 * Defender's
