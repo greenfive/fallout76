@@ -75,6 +75,7 @@ Already learnt craftables
 * Diver's
 * Doctor's
 * Durability
+* Electrified
 * Endurance
 * Frozen
 * Ghost's
