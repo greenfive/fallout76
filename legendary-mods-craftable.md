@@ -68,6 +68,7 @@ Already learnt craftables
 * Acrobat's
 * Agility
 * Arm's Keeper
+* Belted
 * Cavalier's
 * Charisma
 * Defender's
