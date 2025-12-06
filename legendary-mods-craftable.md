@@ -89,6 +89,7 @@ Already learnt craftables
 * Perception
 * Resilient
 * Secret Agent's
+* Sentinel's
 * Steadfast
 * Strength
 * Swift
