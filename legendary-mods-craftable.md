@@ -60,6 +60,7 @@ Already learnt craftables
 * Rapid
 * Riposting
 * Steady
+* Strength
 * V.A.T.S. Enhanced
 * Vital
 * Warming
