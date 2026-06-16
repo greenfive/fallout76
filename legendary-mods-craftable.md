@@ -21,11 +21,13 @@ Already learnt craftables
 * Juggernaut's
 * Junkie's
 * Life Saving
+* Lucid
 * Medic's
 * Mutant Slayer's
 * Mutant's
 * Nocturnal
 * Overeater's
+* Quad
 * Regenerating
 * Stalker's
 * Suppressor's
@@ -42,6 +44,7 @@ Already learnt craftables
 * Antiseptic
 * Charisma
 * Crippling
+* Elementalist
 * Endurance
 * Explosive
 * Fireproof
@@ -67,6 +70,8 @@ Already learnt craftables
 
 # 3-star
 * Acrobat's
+* Active
+* Adamantium
 * Agility
 * Arm's Keeper
 * Belted
@@ -88,6 +93,7 @@ Already learnt craftables
 * Nimble
 * Pack Rat's
 * Perception
+* Reflex
 * Resilient
 * Secret Agent's
 * Sentinel's
